@@ -13,7 +13,8 @@
       "type": "lbs",
       "title": "自动定位",
       "readonly": true,
-      "required": false
+      "required": false,
+      "remark": "请开启手机定位服务"
     },
     {
       "name": "mqszd",
